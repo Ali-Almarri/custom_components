@@ -2,6 +2,9 @@
 ==== 
 lifesmart 设备接入 HomeAssistant插件
 
+How To :
+https://blog.csdn.net/fzsol/article/details/125054878
+
 更新说明
 -------  
 [2020年12月26日更新]
